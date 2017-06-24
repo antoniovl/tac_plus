@@ -1,5 +1,5 @@
 # tac_plus
-TACACS+ v4.0 Daemon
+TACACS+ v4.0
 
 UNIX Daemon implementing the TACACS+ Protocol.
 
